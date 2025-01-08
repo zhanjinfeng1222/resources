@@ -1,0 +1,42 @@
+# Blender MTL File: 'Low Poly - Cinema.blend'
+# Material Count: 3
+
+newmtl cinema_ts
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\My Works\\Blender\\- Blender Projects -\\Low poly - Cinema\\Textures 2.1\\cinema_ts_Normal_OpenGL.png
+map_Kd E:\\My Works\\Blender\\- Blender Projects -\\Low poly - Cinema\\Textures 2.1\\cinema_ts_Base_color.png
+map_Ke E:\\My Works\\Blender\\- Blender Projects -\\Low poly - Cinema\\Textures 2.1\\cinema_ts_Emission.png
+map_Ns E:\\My Works\\Blender\\- Blender Projects -\\Low poly - Cinema\\Textures 2.1\\cinema_ts_Roughness.png
+
+newmtl floor
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\rscnaa\\Documents\\Adobe\\Adobe Substance 3D Painter\\export\\Floor_Normal_OpenGL.png
+map_Kd C:\\Users\\rscnaa\\Documents\\Adobe\\Adobe Substance 3D Painter\\export\\Floor_BaseColor.png
+map_Ns C:\\Users\\rscnaa\\Documents\\Adobe\\Adobe Substance 3D Painter\\export\\Floor_Roughness.png
+
+newmtl screen
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:\\My Works\\Blender\\- Blender Projects -\\Low poly - Cinema\\Textures 2.1\\cinema_Base_color.png
+map_Ke E:\\My Works\\Blender\\- Blender Projects -\\Low poly - Cinema\\Textures 2.1\\cinema_Emission.png
+map_Ns E:\\My Works\\Blender\\- Blender Projects -\\Low poly - Cinema\\Textures 2.1\\cinema_Roughness.png
